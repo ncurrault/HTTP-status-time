@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nicholas818",
+    "longName": "HTTP Status Time",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "HTTP Status Time",
+    "uuid": "34faee98-2bc7-4c30-9231-66478086d07e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
